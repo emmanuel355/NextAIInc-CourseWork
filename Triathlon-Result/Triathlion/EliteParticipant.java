@@ -6,7 +6,7 @@ package triathlon.com;
 
 /**
  *
- * @author subek
+ * @author emma
  */
 public class EliteParticipant extends participant {
     private String sponsorName;
