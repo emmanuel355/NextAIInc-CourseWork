@@ -6,7 +6,7 @@ package triathlon.com;
 
 /**
  *
- * @author subek
+ * @author emma
  */
 import java.util.ArrayList;
 import java.util.Collections;
