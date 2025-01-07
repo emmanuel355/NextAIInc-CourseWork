@@ -6,7 +6,7 @@ package triathlon.com;
 
 /**
  *
- * @author subek
+ * @author emma
  */
 public class BeginnerParticipant extends participant {
     public BeginnerParticipant(String name, String id, int swimmingTime, int cyclingTime, int runningTime) {
